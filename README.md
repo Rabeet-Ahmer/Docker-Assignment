@@ -64,9 +64,13 @@ docker run -p 8000:8000 --name fastapi-docker-cont fastapi-docker
 ## 📸 Screenshots
 
 ### Next.js
+#### Container
 ![Next.js Container](/nextjs-docker/screenshots/container.png)
+#### Image
 ![Next.js Image](/nextjs-docker/screenshots/docker-image.png)
 
 ### FastAPI
+#### Container
 ![FastAPI Container](/fastapi-docker/screenshots/container.png)
+#### Image
 ![FastAPI Image](/fastapi-docker/screenshots/docker-image.png)
